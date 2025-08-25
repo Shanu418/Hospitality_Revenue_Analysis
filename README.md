@@ -65,15 +65,6 @@ With an overall occupancy rate of 57.9%, the management should explore dynamic p
 - Implement Dynamic Pricing:
 As the Average Daily Rate (ADR) is almost the same on weekdays and weekends, using dynamic pricing for all properties and platforms can help increase revenue.
 
----
-
-## Dashboard images
-
-![img](Images/img.PNG)
-
---- 
-
-![imgg](Images/imgg.PNG)
 
 ---
 ## Acknowledgments
